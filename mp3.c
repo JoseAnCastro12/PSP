@@ -39,3 +39,5 @@ if (pid == 0 )
    printf("\t elpid de mi proceso hijo P3 es: %d \n", pid_hijo3);
            
   }
+  }
+  }
